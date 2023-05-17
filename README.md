@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://murillocouto.github.io/html-portifolio/" target="_blank">
-		<img src="./WhatsApp-Image-2023-04-28-at-13.08.05.png" alt="IntroImage" width="50%"/>
+		<img src="foto.png" alt="IntroImage" width="50%"/>
 	</a>
 </div>
 
@@ -14,6 +14,7 @@ This is my starting on the programming world. So, I decided to use my new creati
 
 ### Which technologies were used? 💻
 - HTML5
+- CSS3
 <hr>
 
 ### Is it online? 📡
