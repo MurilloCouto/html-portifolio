@@ -17,11 +17,7 @@ h2 {
     text-transform: uppercase;
 }
 
-p {
-    font-size:x-large;
-}
-
-li {
+p, li {
     font-size:x-large;
 }
 
@@ -33,6 +29,7 @@ li {
 
 #divGrid {
     display: grid;
+    gap: 1%;
     grid-auto-flow: column;
     columns: auto;
 }
