@@ -55,3 +55,7 @@ img {
     border-radius: 10px;
     margin-bottom: 1%;
 }
+
+#listStyleType {
+    list-style-type: none;
+}
